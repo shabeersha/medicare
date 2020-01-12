@@ -1,0 +1,24 @@
+#nav-bar-main{
+	height: 70px;
+	background-color:blue;
+}
+
+h1{
+
+	font-size: 10vw;
+}
+
+
+#main-l{
+
+	height: 500px;
+	
+	background: linear-gradient(to bottom, #bbcdd2 0%,#c2ced3 30%,#c7d3d8 50%,#c7d3d8 51%,#bfd1dd 100%);
+}
+
+#main-r{
+
+	height: 500px;
+	
+	background-image:url(/app01/images/main.jpg);
+}
