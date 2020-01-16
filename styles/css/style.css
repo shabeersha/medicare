@@ -19,8 +19,7 @@ h1{
 #main-r{
 
 	height: 500px;
-	
-	background-image:url(/app01/images/main.jpg);
+	background-image:url(../../images/main.jpg);
 }
 
 
